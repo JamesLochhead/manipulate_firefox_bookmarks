@@ -1,4 +1,4 @@
-# manipulate_firefox_bookmarks
+# Manipulate Firefox Bookmarks
 
 ## Description
 
