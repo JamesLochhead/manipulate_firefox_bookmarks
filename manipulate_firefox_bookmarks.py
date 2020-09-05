@@ -6,8 +6,8 @@
     text (i.e. spacing).
 
     Output is to stdout and intended to be used in conjunction with file
-    redirection. e.g. `parse_bookmarks.py SOMETHING > FILE` on a POSIX
-    compliant OS and `parse_bookmarks.py SOMETHING | out-file FILE` on
+    redirection. e.g. `manipulate_firefox_bookmarks.py SOMETHING > FILE` on a POSIX
+    compliant OS and `manipulate_firefox_bookmarks.py SOMETHING | out-file FILE` on
     Windows.
 
     There is also a method to return all the bookmarks (as Node objects) as a
