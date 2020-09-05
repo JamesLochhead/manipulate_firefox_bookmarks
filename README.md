@@ -87,3 +87,7 @@ Python 3 `argparse` is used to parse command-line arguments.
   applications can use them.
 
 - Flesh out the existing conversion options and make them more configurable.
+
+- More options than merely the title for conversion to plain text.
+
+- Convert date values.
