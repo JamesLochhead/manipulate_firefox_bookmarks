@@ -3,11 +3,11 @@
 ## Description
 
 A command utility to convert a backup of Firefox bookmarks (JSON file) into
-plain text, plain text with extra formatting, or markdown.
+plain text, plain text with extra formatting, or Markdown.
 
 Output is to stdout and intended to be used in conjunction with file
-redirection. e.g. `manipulate_firefox_bookmarks.py SOMETHING > FILE` on a POSIX
-compliant OS (e.g. Linux, BSD, and MacOS) and
+redirection. e.g. `manipulate_firefox_bookmarks.py SOMETHING > FILE` on a 
+POSIX- compliant OS (e.g. Linux, BSD, and MacOS) and
 `manipulate_firefox_bookmarks.py SOMETHING | out-file FILE` on Windows 
 (PowerShell).
 
