@@ -2,7 +2,7 @@
 
 ## Description
 
-A command utility to convert a backup of Firefox bookmarks (JSON file) into
+A command-line utility to convert a backup of Firefox bookmarks (JSON file) into
 plain text, plain text with extra formatting, or Markdown.
 
 Output is to stdout and intended to be used in conjunction with file
